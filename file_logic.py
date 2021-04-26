@@ -1,4 +1,5 @@
 # App to merger multiple files together
+# Author: Alayande Mustapha: alayandemustapha@gmail.com
 import docx
 import docmerge 
 from  doc_name import docname

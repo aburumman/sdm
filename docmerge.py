@@ -1,3 +1,4 @@
+# Author: Alayande Mustapha: alayandemustapha@gmail.com
 import docx
 import pandas as pd
 

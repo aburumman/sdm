@@ -1,4 +1,5 @@
 # Auto generate new documents name from date and random alphabet
+# Author: Alayande Mustapha: alayandemustapha@gmail.com
 from  datetime import datetime
 from random import choice
 

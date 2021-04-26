@@ -1,9 +1,12 @@
+# Author: Alayande Mustapha: alayandemustapha@gmail.com
+
 import os
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
 from file_logic import FileLogic
 from file_logic import DOC_NAME
+
 
 
 howto = ''' How to use Simple Document Merger(SDM).\n 
